@@ -4,6 +4,7 @@ import styled from "styled-components"
 import Img from "gatsby-image"
 import { MDXRenderer } from "gatsby-plugin-mdx"
 import { motion, useAnimation } from "framer-motion"
+import SplashScreen from "../splashScreen"
 
 import Context from "../../context/"
 import ContentWrapper from "../../styles/contentWrapper"
@@ -103,6 +104,7 @@ const Hero = ({ content }) => {
 
   return (
     <StyledSection id="hero">
+      {!isIntroDone && <SplashScreen />}
       <StyledContentWrapper>
         <motion.div
           initial={{ opacity: 0, y: 20 }}
