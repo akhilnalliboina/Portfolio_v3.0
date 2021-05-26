@@ -1,7 +1,7 @@
 module.exports = {
   author: "@akhilnalliboina",
   siteTitle: "Akhil Nalliboina | Portfolio",
-  siteShortTitle: "Akhil",
+  siteShortTitle: "Akhil Nalliboina",
   siteDescription: "A modern website with a clean yet expressive design.",
   siteUrl: "http://localhost:9000/",
   siteLanguage: "en_US",
@@ -95,12 +95,12 @@ module.exports = {
   },
   footerLinks: [
     {
-      name: "Privacy",
-      url: "/privacy",
+      name: "",
+      url: "",
     },
     {
-      name: "Imprint",
-      url: "/imprint",
+      name: "Copyright",
+      url: "./../../../LICENSE",
     },
   ],
 }
