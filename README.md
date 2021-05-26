@@ -10,15 +10,13 @@ Just install the starter, add your content, and there you go!
 
 <a href="#sections">Sections</a> · <a href="#features">Features</a> · <a href="#how-to-start">How to Start</a> · <a href="#edit-content">Edit Content</a> · <a href="#edit-theme">Edit Theme</a> · <a href="#edit-page-structure">Edit Page Structure</a> · <a href="#feedback">Feedback</a>
 
-<a href="https://gatsby-starter-portfolio-minimal.netlify.app/" target="_blank"><strong>>> LIVE DEMO</strong></a>
-
 <a href="https://konstantin.digital/" target="_blank"><strong>>> LIVE DEMO (with Splash Screen and Cookie Bar)</strong></a>
 
 **New Features:** 🌛 Dark Mode · 🪟 Splash Screen · 🍪 Cookie Consent Bar
 
 ---
 
-<img src="screenshot.png" alt="Gatsby Starter Portfolio Minimal Screenshot" width="600" />
+<img src="screenshot.png" alt="Portfolio Minimal Screenshot" width="600" />
 
 ---
 
