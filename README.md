@@ -16,7 +16,7 @@ Just install the starter, add your content, and there you go!
 
 ---
 
-<img src="screenshot2.png" alt="Portfolio Minimal Screenshot" width="600" />
+<img src="screen.png" alt="Portfolio Minimal Screenshot" width="600" />
 
 ---
 
