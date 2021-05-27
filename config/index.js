@@ -1,7 +1,7 @@
 module.exports = {
   author: "@akhilnalliboina",
   siteTitle: "Akhil Nalliboina | Portfolio",
-  siteShortTitle: "Akhil Nalliboina",
+  siteShortTitle: "AN.",
   siteDescription: "A modern website with a clean yet expressive design.",
   siteUrl: "http://localhost:9000/",
   siteLanguage: "en_US",
