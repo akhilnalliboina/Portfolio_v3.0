@@ -5,7 +5,7 @@ module.exports = {
   siteDescription: "A modern website with a clean yet expressive design.",
   siteUrl: "http://localhost:9000/",
   siteLanguage: "en_US",
-  siteIcon: "content/favicon.png",
+  siteIcon: "content/favcon.png",
   seoTitleSuffix: "Akhil Nalliboina",
   useCookieBar: true,
   googleAnalyticsTrackingId: "UA-165787709-1",
