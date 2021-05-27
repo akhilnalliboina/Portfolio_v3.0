@@ -100,7 +100,8 @@ module.exports = {
     },
     {
       name: "Copyright",
-      url: "./../../../LICENSE",
+      url:
+        "https://github.com/akhilnalliboina/Portfolio_v3.0/blob/51ad7176d57c13e1bf1c99f9c5454f30630e9ce8/LICENSE",
     },
   ],
 }
