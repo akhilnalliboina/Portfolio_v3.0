@@ -57,16 +57,16 @@ module.exports = {
       url: "https://www.linkedin.com/in/akhilnalliboina/",
     },
     {
-      name: "Blog",
-      url: "https://dev.to/akhilnalliboina",
-    },
-    {
       name: "Github",
       url: "https://github.com/akhilnalliboina",
     },
     {
-      name: "Twitter",
-      url: "https://twitter.com/akhilnlb",
+      name: "Behance",
+      url: "https://www.behance.net/akhilnlbc6d6",
+    },
+    {
+      name: "Blog",
+      url: "https://dev.to/akhilnalliboina",
     },
   ],
 
