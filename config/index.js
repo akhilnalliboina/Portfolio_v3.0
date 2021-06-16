@@ -81,10 +81,10 @@ module.exports = {
         name: "Projects",
         url: "/#projects",
       },
-      // {
-      //   name: "Articles",
-      //   url: "/#articles",
-      // },
+      {
+        name: "Contact",
+        url: "/#contact",
+      },
     ],
     button: {
       useFileName: true,
