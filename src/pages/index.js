@@ -42,7 +42,7 @@ const IndexPage = ({ data }) => {
         <Interests content={data.interests.edges} />
         <Projects content={data.projects.edges} />
         {/* Articles is populated via Medium RSS Feed fetch */}
-        <Articles />
+        {/* <Articles /> */}
         <Contact content={data.contact.edges} />
       </Layout>
     </GlobalStateProvider>

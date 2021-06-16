@@ -42,11 +42,11 @@ module.exports = {
   //-- ARTICLES SECTION SETTINGS -----
   // You can create your own Medium feed with this rss to json converter: https://rss2json.com/
   // To access your Medium RSS feed, just replace this url with your username: https://medium.com/feed/@{yourname}
-  mediumRssFeed:
-    "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fakhilnlb.hashnode.dev%2Frss.xml",
-  // rssFeed: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.theguardian.com%2Finternational%2Frss",
+  // mediumRssFeed:
+  //   "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fakhilnlb.hashnode.dev%2Frss.xml",
+  // // rssFeed: "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.theguardian.com%2Finternational%2Frss",
 
-  shownArticles: 3,
+  // shownArticles: 3,
 
   //-- SOCIAL MEDIA SETTINGS -----
   // There are icons available for the following platforms:
@@ -81,10 +81,10 @@ module.exports = {
         name: "Projects",
         url: "/#projects",
       },
-      {
-        name: "Articles",
-        url: "/#articles",
-      },
+      // {
+      //   name: "Articles",
+      //   url: "/#articles",
+      // },
     ],
     button: {
       useFileName: true,
